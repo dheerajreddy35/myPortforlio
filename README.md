@@ -1,2 +1,1 @@
-# myPortforlio
-This is my portforlio
+# portfolio
